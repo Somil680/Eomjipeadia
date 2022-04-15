@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./styles.css";
 
-var headingText = "Eomji ";
+var headingText = "🤠Eomji🤠 ";
 var color = "#FFC72C";
 
 var emojiDictionary = {
@@ -72,7 +72,49 @@ var emojiDictionary = {
   "😯": " Hushed Face",
   "😲": " Astonished Face",
   "😳": " Flushed Face",
-  "🥺": " Pleading Face"
+  "🥺": " Pleading Face",
+  "👋": "Waving Hand ",
+  "🤚": "Raised Back of Hand",
+  "🖐️": "Hand with Fingers Splayed",
+  "✋": "Raised Hand",
+  "🖖": "Vulcan Salute",
+  "👌": "OK Hand",
+  "🤌": "Pinched Fingers",
+  "🤏": "Pinching Hand",
+  "✌️": "Victory Hand",
+  "🤞": "Crossed Fingers",
+  "🤟": "Love-You Gesture",
+  "🤘": "Sign of the Horns",
+  "🤙": "Call Me Hand",
+  "👈": "Backhand Index Pointing Left",
+  "👉": "Backhand Index Pointing Right",
+  "👆": "Backhand Index Pointing Up",
+  "🖕": "Middle Finger",
+  "👇": "Backhand Index Pointing Down",
+  "☝️": "Index Pointing Up",
+  "👍": "Thumbs Up",
+  "👎": "Thumbs Down",
+  "✊": "Raised Fist",
+  "👊": "Oncoming Fist",
+  "🤛": "Left-Facing Fist",
+  "🤜": "Right-Facing Fist",
+  "👏": "Clapping Hands",
+  "🙌": "Raising Hands",
+  "👐": "Open Hands",
+  "🤲": "Palms Up Together",
+  "🤝": "Handshake",
+  "🙏": "Folded Hands",
+  "✍️": "Writing Hand",
+  "💅": "Nail Polish",
+  "🤳": "Selfie",
+  "💪": "Flexed Biceps",
+  "🦾": "Mechanical Arm",
+  "🦿": "Mechanical Leg",
+  "🦵": "Leg",
+  "🦶": "Foot",
+  "👂": "Ear",
+  "🦻": "Ear with Hearing Aid",
+  "👃": "Nose"
 };
 var weKnowEmoji = Object.keys(emojiDictionary);
 

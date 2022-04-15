@@ -5,6 +5,7 @@
 span {
   padding: 10px;
   font-size: x-large;
+  cursor: pointer;
 }
 input {
   width: 80%;
